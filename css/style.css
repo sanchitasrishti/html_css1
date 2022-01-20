@@ -1,0 +1,22 @@
+h1{
+	color: #41729F;
+}
+h2{
+	color: black;
+	background-color: #5885AF;
+}
+.blue{
+	color: black;
+	background-color: #125786;
+	border-style: dashed;
+	border-width: 2px;
+}
+#size{
+	background-position: middle;
+	background-color: #C3E0E5;
+}
+.box{
+	width: 300px;
+	height: 100px;
+	background-color: #0074B7;
+}
